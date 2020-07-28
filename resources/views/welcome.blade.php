@@ -234,32 +234,32 @@
    
                            <div class="demo-gallery">
                                <ul id="lightgallery">
-                                   <li class="video  animated wow fadeInUp" data-src="https://www.youtube.com/watch?v=2k9MpD1gM14" data-poster="images/web1.jpg">
-                                       <a href=" https://www.youtube.com/watch?v=2k9MpD1gM14 ">
+                                   <li class="video  animated wow fadeInUp" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web1.jpg">
+                                       <a href=" https://www.youtube.com/watch?v=NLuTk5L3R7k ">
                                            <img class="img-responsive" src="images/man6.jpg">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
                                        </a>
                                    </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=2k9MpD1gM14" data-poster="images/web2.jpg">
-                                       <a href="https://www.youtube.com/watch?v=2k9MpD1gM14">
+                                   <li class="video animated wow fadeInUp" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg">
+                                       <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60">
                                            <img class="img-responsive" src="images/work.jpg">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
                                        </a>
                                    </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=2k9MpD1gM14" data-poster="images/web3.jpg">
-                                       <a href="https://www.youtube.com/watch?v=2k9MpD1gM14">
+                                   <li class="video animated wow fadeInUp" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8" data-poster="images/web3.jpg">
+                                       <a href="https://www.youtube.com/watch?v=4cOjsutG2-8">
                                            <img class="img-responsive" src="images/man6.jpg">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
                                        </a>
                                    </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.3s" data-src="https://www.youtube.com/watch?v=2k9MpD1gM14" data-poster="images/web4.jpg">
-                                       <a href="https://www.youtube.com/watch?v=2k9MpD1gM14">
+                                   <li class="video animated wow fadeInUp" data-wow-delay="0.3s" data-src="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ" data-poster="images/web4.jpg">
+                                       <a href="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ">
                                            <img class="img-responsive" src="images/man7.jpg">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
