@@ -235,7 +235,7 @@
                                <ul id="lightgallery">
                                    <li class="video  animated wow fadeInUp" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web1.jpg">
                                        <a href=" https://www.youtube.com/watch?v=NLuTk5L3R7k " target="_blank" >
-                                           <img class="img-responsive" src="images/man6.jpg">
+                                           <img class="img-responsive" src="images/web1.png">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
@@ -243,7 +243,7 @@
                                    </li>
                                    <li class="video animated wow fadeInUp" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg">
                                        <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank" >
-                                           <img class="img-responsive" src="images/work.jpg">
+                                           <img class="img-responsive" src="images/web2.png">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
@@ -251,7 +251,7 @@
                                    </li>
                                    <li class="video animated wow fadeInUp" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8" data-poster="images/web3.jpg">
                                        <a href="https://www.youtube.com/watch?v=4cOjsutG2-8" target="_blank" >
-                                           <img class="img-responsive" src="images/man6.jpg">
+                                           <img class="img-responsive" src="images/web3.png">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
@@ -259,7 +259,7 @@
                                    </li>
                                    <li class="video animated wow fadeInUp" data-wow-delay="0.3s" data-src="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ" data-poster="images/web4.jpg">
                                        <a href="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ" target="_blank" >
-                                           <img class="img-responsive" src="images/man7.jpg">
+                                           <img class="img-responsive" src="images/web4.png">
                                            <div class="demo-gallery-poster">
                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
                                            </div>
