@@ -158,6 +158,7 @@
                     <div class="row">
                         <div class="col-md-12">
                             <div class="titlepage">
+                                <br><br>
                                 <h2 class="animated wow animate__zoomInDown">ماهي الخدمات التي نقدمها في روبيك  </h2>
                             </div>
                         </div>
@@ -222,83 +223,50 @@
                 </div>
                 <!-- end why -->
                <section>
-                   <div class="cont">
-                       <div class="page-head">
+                   <div class="cont" id="studio">
+                       <div class="page-head" >
                            <div class="titlepage">
                                <h2 class="animated fadeInUp wow">يسرنا أن تطلع على كيفية اتمام المهام في روبيك</h2>
                            </div>
    
                            <div class="demo-gallery">
-                               <ul id="lightgallery">
-                                   <li class="video  animated wow fadeInUp" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web1.jpg">
-                                       <a href=" https://www.youtube.com/watch?v=NLuTk5L3R7k " target="_blank" >
-                                           <img class="img-responsive" src="images/web1.png">
-                                           <div class="demo-gallery-poster">
-                                               <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                           </div>
-                                       </a>
-                                   </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg">
-                                       <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank" >
-                                           <img class="img-responsive" src="images/web2.png">
-                                           <div class="demo-gallery-poster">
-                                               <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                           </div>
-                                       </a>
-                                   </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8" data-poster="images/web3.jpg">
-                                       <a href="https://www.youtube.com/watch?v=4cOjsutG2-8" target="_blank" >
-                                           <img class="img-responsive" src="images/web3.png">
-                                           <div class="demo-gallery-poster">
-                                               <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                           </div>
-                                       </a>
-                                   </li>
-                                   <li class="video animated wow fadeInUp" data-wow-delay="0.3s" data-src="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ" data-poster="images/web4.jpg">
-                                       <a href="https://www.youtube.com/channel/UC1h3vybMfrwBWvPaap-vwEQ" target="_blank" >
-                                           <img class="img-responsive" src="images/web4.png">
-                                           <div class="demo-gallery-poster">
-                                               <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                           </div>
-                                       </a>
-                                   </li>
-                               </ul>
-                           </div>
+                               
+                                <ul id="lightgallery">
+                                    <li class="video   wow fadeInUp  animated" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web1.jpg" style="visibility: visible; animation-name: fadeInUp;">
+                                        <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
+                                            <img class="img-responsive" src="images/web1.png">
+                                            <div class="demo-gallery-poster">
+                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="video  wow fadeInUp animated" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                        <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
+                                            <img class="img-responsive" src="images/web2.png">
+                                            <div class="demo-gallery-poster">
+                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="video  wow fadeInUp  animated" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web3.jpg" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                        <a href="https://www.youtube.com/watch?v=NLuTk5L3R7k" target="_blank">
+                                            <img class="img-responsive" src="images/web3.png">
+                                            <div class="demo-gallery-poster">
+                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                            </div>
+                                        </a>
+                                    </li>
+                                    <li class="video  wow fadeInUp  animated" data-wow-delay="0.3s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" data-poster="images/web4.jpg" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                        <a href="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" target="_blank">
+                                            <img class="img-responsive" src="images/web4.png">
+                                            <div class="demo-gallery-poster">
+                                                <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                            </div>
+                                        </a>
+                                    </li>
+                                </ul>
 
-                            <ul id="lightgallery">
-                                <li class="video   wow fadeInUp  animated" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web1.jpg" style="visibility: visible; animation-name: fadeInUp;">
-                                    <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
-                                        <img class="img-responsive" src="images/web1.png">
-                                        <div class="demo-gallery-poster">
-                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="video  wow fadeInUp animated" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
-                                    <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
-                                        <img class="img-responsive" src="images/web2.png">
-                                        <div class="demo-gallery-poster">
-                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="video  wow fadeInUp  animated" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web3.jpg" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
-                                    <a href="https://www.youtube.com/watch?v=NLuTk5L3R7k" target="_blank">
-                                        <img class="img-responsive" src="images/web3.png">
-                                        <div class="demo-gallery-poster">
-                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="video  wow fadeInUp  animated" data-wow-delay="0.3s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" data-poster="images/web4.jpg" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
-                                    <a href="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" target="_blank">
-                                        <img class="img-responsive" src="images/web4.png">
-                                        <div class="demo-gallery-poster">
-                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
-                                        </div>
-                                    </a>
-                                </li>
-                            </ul>
+                           </div>
 
 
                        </div>
@@ -310,7 +278,7 @@
                <div class="container">
    
                    <div class="row mb-3">
-                       <div class="col-12 text-center" id="studio" data-aos="fade">
+                       <div class="col-12 text-center" data-aos="fade">
                            <div class="titlepage wow animated fadeInUp">
                                <h2>معرض الصور</h2>
                                <p>
@@ -368,6 +336,63 @@
                                <img class="img-fluid" src="images/man6.jpg">
                            </a>
                        </div>
+
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="0.6s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal1.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="0.7s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal2.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="0.8s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal3.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="0.9s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal4.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="1s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal5.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="1.1s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal6.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="1.2s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal7.jpeg">
+                            </a>
+                        </div>
+                       
+                        <div class="item web col-6 col-sm-6 col-md-6 col-lg-4 col-xl-4 mb-4">
+                            <a href="#" class="item-wrap animated wow fadeInUp" data-wow-delay="1.3s">
+                                <span class="icon-add"></span>
+                                <img class="img-fluid" src="images/gal8.jpeg">
+                            </a>
+                        </div>
    
    
    

@@ -247,15 +247,15 @@ ol {
 /* Background Images */
 
 .slide:first-child {
-    background: url('../images/b1.png') no-repeat center center/cover;
+    background: url('../images/b11.png') no-repeat center center/cover;
 }
 
 .slide:nth-child(2) {
-    background: url('../images/b2.png') no-repeat center center/cover;
+    background: url('../images/b22.png') no-repeat center center/cover;
 }
 
 .slide:nth-child(3) {
-    background: url('../images/b3.png') no-repeat center center/cover;
+    background: url('../images/b33.png') no-repeat center center/cover;
 }
 
 .onoffswitch {
@@ -1504,4 +1504,12 @@ ul.social_icon li a:hover {
 
 .demo-gallery.dark>ul>li a {
     border: 3px solid #04070a;
+}
+
+.header {
+    width: 100%;
+    background: #ffffff;
+    padding: 10px 10px;
+    position: fixed;
+    z-index: 10;
 }
