@@ -529,15 +529,6 @@ button {
   background-position: center; 
 } */
 
-.header {
-    width: 100%;
-    background: #ffffff;
-    opacity: 0.8;
-    padding: 10px 10px;
-    position: fixed;
-    z-index: 10;
-}
-
 .logo a {
     font-size: 40px;
     font-weight: bold;
