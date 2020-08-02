@@ -153,78 +153,75 @@
                <!-- end banner -->
                <!-- business -->
                <!-- why -->
-               <div id="why" class="why ">
-                   <div class="container">
-                       <div class="row">
-                           <div class="col-md-12">
-                               <div class="titlepage">
-                                <br><br>
-                                   <h2 class="animated fadeInUp wow">ماهي الخدمات التي نقدمها في روبيك </h2>
-                               </div>
-                           </div>
-                       </div>
-                       <div class="row">
-                           <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 animated wow fadeInLeft">
-                               <div id="box_ho" class="why-box ">
-                                   <i>
-                                       {{-- <img src="images/n-2.png" alt="#" /> --}}
-                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.24 387.78"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>cleaning</title><g id="Layer_2" data-name="Layer 2"><g id="icons"><path class="cls-1" d="M180.76,0H0V11.81H180.76ZM78.88,211.07a11.5,11.5,0,0,0,23,0V102.15h-23Zm319.41-33.3H386.14v-8.51h-5.32l.24-5.09h2.25a10.69,10.69,0,0,0,0-21.38H178.58a10.69,10.69,0,1,0,0,21.38h2.25l.24,5.09h-5.32v8.51H163.6a6,6,0,0,0-5.95,5.95c0,40.17,7.38,70.27,22.56,92a93.12,93.12,0,0,0,6.22,7.95l4.25,90.68a14.24,14.24,0,0,0,14,13.4H357.17a14.24,14.24,0,0,0,14-13.4l4.25-90.68a91.58,91.58,0,0,0,6.22-7.95c15.18-21.76,22.56-51.86,22.56-92A6,6,0,0,0,398.29,177.77ZM169.6,189.67h6.15v9.22h6.71l2.94,62.73C175.39,243.68,170.2,220,169.6,189.67Zm206.89,72,2.94-62.73h6.71v-9.22h6.15C391.69,220,386.5,243.69,376.49,261.62ZM180.76,26.69H0V49.54H60.82l7.53,37.73h44.06l7.53-37.73h60.82Z"/></g></g></svg>
+                <div id="why" class="why ">
+                    <div class="container">
+                    <div class="row">
+                        <div class="col-md-12">
+                            <div class="titlepage">
+                                <h2 class="animated wow animate__zoomInDown">ماهي الخدمات التي نقدمها في روبيك  </h2>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row whycards">
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12  wow fadeInLeft" data-wow-delay="0.2s" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInLeft;">
+                                <div class="why-box ">
+                                    <i>
+                                        
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 399.96 404.12"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="_1" data-name="1"><circle class="cls-1" cx="121.32" cy="47.24" r="47.24"></circle><path class="cls-1" d="M43,195.73l14.09-70.1a21.71,21.71,0,0,0-42.56-8.55L.43,187.17A21.71,21.71,0,0,0,43,195.73Z"></path><path class="cls-1" d="M338.4,232a11.26,11.26,0,0,0-6.33-3.47l-4.68-.84a11.37,11.37,0,0,1-6.66-3.85L295.49,200a11.36,11.36,0,0,0-8.67-4H219.66a16.93,16.93,0,0,0-12.86-12.33l-31-6.56a17,17,0,0,1-11-7.87L134.3,118.45a13.87,13.87,0,0,0-11.9-6.73H85.89A13.86,13.86,0,0,0,72.2,123.37L47.53,276.09a13.63,13.63,0,0,1-.89,3.11l-38,91.38A24.23,24.23,0,0,0,52.55,391L101,307.23a3.24,3.24,0,0,1,6,1.14c2.87,19.47,6.65,66,6.65,66a24.58,24.58,0,1,0,49.16,0l-4.13-62.74a29.11,29.11,0,0,0-1.27-6.92c-8-25.19-24.37-56.21-24.37-56.21a13.84,13.84,0,0,1-1.47-8.57l1.28-8.56H167c7.09,0,15.19-9.63,20.18-16.68l13.3,2.25a16.92,16.92,0,0,0,18.13-9.55l62.26-.26a11.35,11.35,0,0,1,7.85,3.11l22.66,21.45a11.28,11.28,0,0,1,3.54,8.63,11.4,11.4,0,0,0,2.42,7.4l.95,1.21,21.39-15.64ZM158.45,221.2H134.39l1.2-8a7,7,0,0,1,8.06-5.85l30.6,5.17C170.89,216.75,165.64,221.2,158.45,221.2Z"></path><path class="cls-1" d="M339,251.2a6.06,6.06,0,1,0-6.06,6.05A6.05,6.05,0,0,0,339,251.2Z"></path><path class="cls-1" d="M369,257.25A6.05,6.05,0,1,0,363,263.3,6.05,6.05,0,0,0,369,257.25Z"></path><path class="cls-1" d="M393.91,261.42a6.05,6.05,0,1,0,6,6.05A6.05,6.05,0,0,0,393.91,261.42Z"></path><path class="cls-1" d="M371.89,282.48a6.06,6.06,0,1,0,6.05,6A6.05,6.05,0,0,0,371.89,282.48Z"></path><path class="cls-1" d="M348.25,279.57a6.05,6.05,0,1,0-6.05,6.05A6.05,6.05,0,0,0,348.25,279.57Z"></path><path class="cls-1" d="M348.25,306.71a6.06,6.06,0,1,0,6.05,6.05A6.05,6.05,0,0,0,348.25,306.71Z"></path></g></g></svg>
+                                    </i>
+                                    <h3>مكافحة الافات</h3>
+                                    <h4>
+                                    يتضمن برنامج الشركة مكافحة الآفات الشائعة والتي تشكل خطر كبير على النظافة والصحة العامة في المحيط حولنا ، حيث تعتبر ناقل لبعض الامراض والجراثيم . تتمحور الخدمات في ثلاث نطاقات. 
+                                    </h4>
+
+                                    <p> ✔ الحشرات الطائرة (البق- البعوض-الذباب)  </p>
+                                    <p> ✔ الحشرات الزاحفة(الصراصير -النمل -العناكب-الديدان) </p>
+                                    <p> ✔ القوارض(الجرذان-لفئران-السحالي)  </p>
+                                    <p> ✔ استشارات في المجال من قبل فريق مختص </p>
+                                </div>
+                            </div>
+
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12   wow fadeInUp" data-wow-delay="0.1s" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                <div class="why-box" id="why">
+                                    <i>
+                                        
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125.74 131.09"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M105.83,55.1,96.42,77.74,86.91,54.86H21.79a7.29,7.29,0,0,0-7.27,7.27v61.68a7.29,7.29,0,0,0,7.27,7.28H45.11V112.68A2.68,2.68,0,0,1,47.78,110H78a2.68,2.68,0,0,1,2.67,2.68v18.41H104a7.29,7.29,0,0,0,7.27-7.28V62.13A7.31,7.31,0,0,0,105.83,55.1Z"></path><path class="cls-1" d="M111.34,42.48c-1.38,3.17-2.67,6.05-3.65,8.28h.55a8,8,0,0,1,5.31,2h12.19Z"></path><path class="cls-1" d="M85.15,50.76C81.28,42,72.72,23.2,72.72,16.7c0-.61,0-1.21.07-1.8L62.87,7.8l-26,18.6V19.08a1.43,1.43,0,0,0-1.43-1.43H32.29a1.44,1.44,0,0,0-1.44,1.43V30.71L0,52.78H12.18a8,8,0,0,1,5.32-2Z"></path><path class="cls-1" d="M96.42,70.73l8.31-20c2.18-5.25,11.47-24.79,11.47-31a19.78,19.78,0,0,0-39.56,0c0,6.19,9.29,25.73,11.47,31Zm0-56.74a5.79,5.79,0,1,1-5.8,5.79A5.8,5.8,0,0,1,96.42,14Z"></path></g></g></svg>
+                                    </i>
+                                    <h3>التنظيف و التغليف و النقل </h3>
+                                    <h4>
+                                        من خلال كادر مدرب و محترف ومجهز بأحدث وسائل التنظيف العالمية ونلبي احتياجات طالبي الرحيل من مكان الى أخر بطريقة احترافية ويتضمن ذلك 
+                                    </h4>
+                                    
+
+                                    <p> ✔ تنضيف الأثاث ليكون جاهز للنقل  </p>
+                                    <p> ✔ تغليف الأثاث بطريقة احترافية لتصل للمكان المراد </p>
+                                    <p> ✔ التحميل والنقل والتفريغ بوسائط نقل مخصصة  </p>
+                                    <p> ✔ اعادة التركيب والتسليم جاهز حسب طلب صاحب الخدمة  </p>
+
+                                </div>
+                            </div>
+                            <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12  wow fadeInRight" style="visibility: visible; animation-name: fadeInRight;">
+                                <div id="box_ho" class="why-box ">
+                                    <i>
+                                        
+                                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 404.24 387.78"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>cleaning</title><g id="Layer_2" data-name="Layer 2"><g id="icons"><path class="cls-1" d="M180.76,0H0V11.81H180.76ZM78.88,211.07a11.5,11.5,0,0,0,23,0V102.15h-23Zm319.41-33.3H386.14v-8.51h-5.32l.24-5.09h2.25a10.69,10.69,0,0,0,0-21.38H178.58a10.69,10.69,0,1,0,0,21.38h2.25l.24,5.09h-5.32v8.51H163.6a6,6,0,0,0-5.95,5.95c0,40.17,7.38,70.27,22.56,92a93.12,93.12,0,0,0,6.22,7.95l4.25,90.68a14.24,14.24,0,0,0,14,13.4H357.17a14.24,14.24,0,0,0,14-13.4l4.25-90.68a91.58,91.58,0,0,0,6.22-7.95c15.18-21.76,22.56-51.86,22.56-92A6,6,0,0,0,398.29,177.77ZM169.6,189.67h6.15v9.22h6.71l2.94,62.73C175.39,243.68,170.2,220,169.6,189.67Zm206.89,72,2.94-62.73h6.71v-9.22h6.15C391.69,220,386.5,243.69,376.49,261.62ZM180.76,26.69H0V49.54H60.82l7.53,37.73h44.06l7.53-37.73h60.82Z"></path></g></g></svg>
                                     </i>
                                     <h3> التعقيم والتطهير</h3>
                                     <h4>يتم التعقيم بأحدث التجهيزات و المعدات الألية حسب مواصفات قياسية و مطابقة لتوصيات منظمة الصحة العالمية</h4>
                                     <h4>يسرنا تقديم خدماتنا حسب رغبة العميل في الأماكن التالية </h4>
-                                    <p>  &#10004; المطاعم,  المستودعات, المنزل </p>
-                                    <p>  &#10004; الشركات, مكان العمل </p>
-                                    <p>  &#10004; وسائل النقل كالباصات والسيارات </p>
-                                    <p>  &#10004; مكان العلاج والمستشفيات </p>
+                                    <p>  ✔ المطاعم,  المستودعات, المنزل </p>
+                                    <p>  ✔ الشركات, مكان العمل </p>
+                                    <p>  ✔ وسائل النقل كالباصات والسيارات </p>
+                                    <p>  ✔ مكان العلاج والمستشفيات </p>
                                 
-   
+
                                 </div>
-                           </div>
-                           <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12  animated wow fadeInUp" data-wow-delay="0.1s">
-                               <div class="why-box" id="why">
-                                   <i>
-                                       {{-- <img src="images/n-3.png" alt="#" /> --}}
-                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 125.74 131.09"><defs><style>.cls-1{fill-rule:evenodd;}</style></defs><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><path class="cls-1" d="M105.83,55.1,96.42,77.74,86.91,54.86H21.79a7.29,7.29,0,0,0-7.27,7.27v61.68a7.29,7.29,0,0,0,7.27,7.28H45.11V112.68A2.68,2.68,0,0,1,47.78,110H78a2.68,2.68,0,0,1,2.67,2.68v18.41H104a7.29,7.29,0,0,0,7.27-7.28V62.13A7.31,7.31,0,0,0,105.83,55.1Z"/><path class="cls-1" d="M111.34,42.48c-1.38,3.17-2.67,6.05-3.65,8.28h.55a8,8,0,0,1,5.31,2h12.19Z"/><path class="cls-1" d="M85.15,50.76C81.28,42,72.72,23.2,72.72,16.7c0-.61,0-1.21.07-1.8L62.87,7.8l-26,18.6V19.08a1.43,1.43,0,0,0-1.43-1.43H32.29a1.44,1.44,0,0,0-1.44,1.43V30.71L0,52.78H12.18a8,8,0,0,1,5.32-2Z"/><path class="cls-1" d="M96.42,70.73l8.31-20c2.18-5.25,11.47-24.79,11.47-31a19.78,19.78,0,0,0-39.56,0c0,6.19,9.29,25.73,11.47,31Zm0-56.74a5.79,5.79,0,1,1-5.8,5.79A5.8,5.8,0,0,1,96.42,14Z"/></g></g></svg>
-                                    </i>
-                                    <h3>التنظيف و التغليف و النقل </h3>
-                                    <h4>
-                                       من خلال كادر مدرب و محترف ومجهز بأحدث وسائل التنظيف العالمية ونلبي احتياجات طالبي الرحيل من مكان الى أخر بطريقة احترافية ويتضمن ذلك 
-                                    </h4>
-                                   
-   
-                                    <p> &#10004; تنضيف الأثاث ليكون جاهز للنقل  </p>
-                                    <p> &#10004; تغليف الأثاث بطريقة احترافية لتصل للمكان المراد </p>
-                                    <p> &#10004; التحميل والنقل والتفريغ بوسائط نقل مخصصة  </p>
-                                    <p> &#10004; اعادة التركيب والتسليم جاهز حسب طلب صاحب الخدمة  </p>
-
-                               </div>
-                           </div>
-                           <div class="col-xl-4 col-lg-4 col-md-4 col-sm-12 animated wow fadeInRight" data-wow-delay="0.2s">
-                               <div class="why-box ">
-                                   <i>
-                                       {{-- <img src="images/n-1-.png" alt="#" /> --}}
-                                       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 399.96 404.12"><defs><style>.cls-1{fill:#231f20;}</style></defs><title>Asset 1</title><g id="Layer_2" data-name="Layer 2"><g id="_1" data-name="1"><circle class="cls-1" cx="121.32" cy="47.24" r="47.24"/><path class="cls-1" d="M43,195.73l14.09-70.1a21.71,21.71,0,0,0-42.56-8.55L.43,187.17A21.71,21.71,0,0,0,43,195.73Z"/><path class="cls-1" d="M338.4,232a11.26,11.26,0,0,0-6.33-3.47l-4.68-.84a11.37,11.37,0,0,1-6.66-3.85L295.49,200a11.36,11.36,0,0,0-8.67-4H219.66a16.93,16.93,0,0,0-12.86-12.33l-31-6.56a17,17,0,0,1-11-7.87L134.3,118.45a13.87,13.87,0,0,0-11.9-6.73H85.89A13.86,13.86,0,0,0,72.2,123.37L47.53,276.09a13.63,13.63,0,0,1-.89,3.11l-38,91.38A24.23,24.23,0,0,0,52.55,391L101,307.23a3.24,3.24,0,0,1,6,1.14c2.87,19.47,6.65,66,6.65,66a24.58,24.58,0,1,0,49.16,0l-4.13-62.74a29.11,29.11,0,0,0-1.27-6.92c-8-25.19-24.37-56.21-24.37-56.21a13.84,13.84,0,0,1-1.47-8.57l1.28-8.56H167c7.09,0,15.19-9.63,20.18-16.68l13.3,2.25a16.92,16.92,0,0,0,18.13-9.55l62.26-.26a11.35,11.35,0,0,1,7.85,3.11l22.66,21.45a11.28,11.28,0,0,1,3.54,8.63,11.4,11.4,0,0,0,2.42,7.4l.95,1.21,21.39-15.64ZM158.45,221.2H134.39l1.2-8a7,7,0,0,1,8.06-5.85l30.6,5.17C170.89,216.75,165.64,221.2,158.45,221.2Z"/><path class="cls-1" d="M339,251.2a6.06,6.06,0,1,0-6.06,6.05A6.05,6.05,0,0,0,339,251.2Z"/><path class="cls-1" d="M369,257.25A6.05,6.05,0,1,0,363,263.3,6.05,6.05,0,0,0,369,257.25Z"/><path class="cls-1" d="M393.91,261.42a6.05,6.05,0,1,0,6,6.05A6.05,6.05,0,0,0,393.91,261.42Z"/><path class="cls-1" d="M371.89,282.48a6.06,6.06,0,1,0,6.05,6A6.05,6.05,0,0,0,371.89,282.48Z"/><path class="cls-1" d="M348.25,279.57a6.05,6.05,0,1,0-6.05,6.05A6.05,6.05,0,0,0,348.25,279.57Z"/><path class="cls-1" d="M348.25,306.71a6.06,6.06,0,1,0,6.05,6.05A6.05,6.05,0,0,0,348.25,306.71Z"/></g></g></svg>
-                                    </i>
-                                   <h3>مكافحة الافات</h3>
-                                   <h4>
-                                    يتضمن برنامج الشركة مكافحة الآفات الشائعة والتي تشكل خطر كبير على النظافة والصحة العامة في المحيط حولنا ، حيث تعتبر ناقل لبعض الامراض والجراثيم . تتمحور الخدمات في ثلاث نطاقات. 
-                                   </h4>
-
-                                    <p> &#10004; الحشرات الطائرة (البق- البعوض-الذباب)  </p>
-                                    <p> &#10004; الحشرات الزاحفة(الصراصير -النمل -العناكب-الديدان) </p>
-                                    <p> &#10004; القوارض(الجرذان-لفئران-السحالي)  </p>
-                                    <p> &#10004; استشارات في المجال من قبل فريق مختص </p>
-                               </div>
-                           </div>
-   
-                       </div>
-                   </div>
-               </div>
-               <!-- end why -->
+                            </div> 
+                        </div>
+                    </div>
+                </div>
+                <!-- end why -->
                <section>
-   
-   
                    <div class="cont">
                        <div class="page-head">
                            <div class="titlepage">
@@ -267,6 +264,43 @@
                                    </li>
                                </ul>
                            </div>
+
+                            <ul id="lightgallery">
+                                <li class="video   wow fadeInUp  animated" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web1.jpg" style="visibility: visible; animation-name: fadeInUp;">
+                                    <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
+                                        <img class="img-responsive" src="images/web1.png">
+                                        <div class="demo-gallery-poster">
+                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="video  wow fadeInUp animated" data-wow-delay="0.1s" data-src="https://www.youtube.com/watch?v=gQR5l7Zx-60" data-poster="images/web2.jpg" style="visibility: visible; animation-delay: 0.1s; animation-name: fadeInUp;">
+                                    <a href="https://www.youtube.com/watch?v=gQR5l7Zx-60" target="_blank">
+                                        <img class="img-responsive" src="images/web2.png">
+                                        <div class="demo-gallery-poster">
+                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="video  wow fadeInUp  animated" data-wow-delay="0.2s" data-src="https://www.youtube.com/watch?v=NLuTk5L3R7k" data-poster="images/web3.jpg" style="visibility: visible; animation-delay: 0.2s; animation-name: fadeInUp;">
+                                    <a href="https://www.youtube.com/watch?v=NLuTk5L3R7k" target="_blank">
+                                        <img class="img-responsive" src="images/web3.png">
+                                        <div class="demo-gallery-poster">
+                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="video  wow fadeInUp  animated" data-wow-delay="0.3s" data-src="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" data-poster="images/web4.jpg" style="visibility: visible; animation-delay: 0.3s; animation-name: fadeInUp;">
+                                    <a href="https://www.youtube.com/watch?v=4cOjsutG2-8&amp;t=2s" target="_blank">
+                                        <img class="img-responsive" src="images/web4.png">
+                                        <div class="demo-gallery-poster">
+                                            <img src="https://sachinchoolur.github.io/lightGallery/static/img/play-button.png">
+                                        </div>
+                                    </a>
+                                </li>
+                            </ul>
+
+
                        </div>
    
                </section>
