@@ -18,4 +18,7 @@
 		<li class="nav-item"><a class="nav-link" href="{{ backpack_url('permission') }}"><i class="nav-icon la la-key"></i> <span>الصلاحيات</span></a></li>
 		</ul>
 	</li>
+
 @endif
+
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('backup') }}'><i class='nav-icon la la-hdd-o'></i> نسخ احتياطي </a></li>
