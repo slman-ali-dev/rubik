@@ -34,7 +34,7 @@
         <!-- start navbar -->
         <nav class="navbar nav navbar-expand-sm navbar-light fixed-top">
             <div class="container">
-                <a class="navbar-brand w-25" href="#"><img  class="img-fluid" src="images/rubik.png" alt="image-logo"></a>
+                <a class="navbar-brand w-25" href="#"><img  class="img-fluid w-25" src="images/rubik.png" alt="image-logo"></a>
                 <button class="navbar-toggler  d-lg-none  " id="button-toggler" > 
                 <div id="nav-icon1">
                     <span></span>
@@ -475,7 +475,7 @@
             </div>
       
         <div class="icons-social">
-        <p class="text-center">Copyright &copy; 2020 All Right Reserved By Rubik</p>
+        <p class="text-center"> &copy; جميع الحقوق محفوظة لشركة روبيك</p>
          </div>
 		 
     
